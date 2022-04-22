@@ -636,7 +636,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .bg-\[url\(\'\/assets\/retro-bg\.gif\'\)\] {
-  background-image: url('./assets/retro-bg.gif');
+  background-image: url('../assets/retro-bg.gif');
 }
 
 .bg-cover {
